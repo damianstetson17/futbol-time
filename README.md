@@ -1,8 +1,8 @@
-# Fútbol Time
+# Fútbol Time ⚽
 
-Template con prueba de concepto de aplicación de turnos de canchas de fútbol.
+Template prueba de concepto de aplicación de turnos de canchas de fútbol.
 
-## Cómo correr
+## Cómo correr 🚀
 
 - Node ≥ 18.17.x
 
