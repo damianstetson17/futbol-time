@@ -1,4 +1,4 @@
-import Nabvar from './components/Navbar';
+import Nabvar from '@components/Navbar';
 
 const App = () => {
   return (

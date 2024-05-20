@@ -1,7 +1,7 @@
 import ItemMenu from './components/ItemMenu';
 import Logo from './components/Logo';
 
-const Nabvar = () => {
+const Navbar = () => {
   return (
     <header className="bg-black">
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 px-8" aria-label="Global">
@@ -24,4 +24,4 @@ const Nabvar = () => {
   );
 };
 
-export default Nabvar;
+export default Navbar;
